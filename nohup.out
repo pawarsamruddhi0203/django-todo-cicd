@@ -1,0 +1,12 @@
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 29, 2024 - 16:55:56
+Django version 4.2.11, using settings 'todoApp.settings'
+Starting development server at http://0.0.0.0:8001/
+Quit the server with CONTROL-C.
+
+[29/Nov/2024 16:56:02] "GET /todos/ HTTP/1.1" 200 3515
+Not Found: /favicon.ico
+[29/Nov/2024 16:56:02] "GET /favicon.ico HTTP/1.1" 404 2572
